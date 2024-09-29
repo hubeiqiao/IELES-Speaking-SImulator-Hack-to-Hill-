@@ -1,5 +1,16 @@
-# IELES-Speaking-SImulator-Hack-to-Hill
-Authentic IELTS Speaking Practice Powered by GPT
+# IELES-Speaking-Simulator-Hack-to-Hill
+
+
+<div align="center">
+    <img width="200" height="200" style="display: block; border: 1px solid #f5f5f5; border-radius: 9999px;" src="https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/IELTS%20Speaking%20Simulator%20icon.png">
+
+<div align="center">
+    <h1><a href="https://chatgpt.com/g/g-nWsmZOwc6-ielts-speaking-simulator-hack-the-hill">IELTS Speaking Simulation (Hack to Hill)</a></h1>
+    <h3><p><b>Authentic IELTS Speaking Practice Powered by GPT.</b></p></h3>
+</a>
+</div>
+</div>
+</p>
 
 Hello everyone! We are the team from Carleton University, and we’re excited to introduce our project: IELTS Speaking Simulator
 We arrived in Canada just one month ago and are thrilled to participate in Hack the Hill.
