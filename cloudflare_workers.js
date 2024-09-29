@@ -893,3 +893,5 @@ async function handleRequest(request) {
     headers: { 'content-type': 'text/plain' },
   });
 }
+
+// This code generate by ChatGPT with our prompt
