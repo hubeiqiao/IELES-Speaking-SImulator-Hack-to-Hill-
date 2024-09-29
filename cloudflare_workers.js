@@ -837,6 +837,13 @@ const topics = [
             "Part 2: Describe someone you know who made a good decision recently. You should say: - Who he/she is - When he/she made the decision - What decision he/she made - Why it was a good decision - And explain how you felt about the decision",
             "Part 3: Should parents make decisions for their children? Do you think parents are the best people to make decisions about their children’s education? At what age do you think children can be allowed to make decisions by themselves? Why do most children find it difficult to make decisions? Should parents interfere in children's decision-making? How should parents help their children make decisions?"
           ]
+        },
+        {
+          "number": "Topic 94",
+          "questions": [
+            "Part 2: Describe a time that you showed something which was new to a person who was younger than you You should say: - When it was - What it was - Who you showed it to - How you showed it - Why you showed it - And explain how you felt about it",
+            "Part 3: What skills should children learn? What are the differences between the things adults learn and the things that children learn? Why are some people not willing to ask help from others while studying? What skills do you think children should learn before going to school? How can young people be motivated to learn new things? Is it possible for a person to achieve something without motivation?"
+          ]
         }
 ];
 
@@ -851,7 +858,7 @@ function selectRandomTopics(part, numTopics) {
       selectedTopics.push(partTopics.splice(randomIndex, 1)[0]);
     }
   } else if (part === 2 || part === 3) {
-    partTopics = topics.slice(42, 93);
+    partTopics = topics.slice(42, 94);
     const randomIndex = Math.floor(Math.random() * partTopics.length);
     selectedTopics.push(partTopics[randomIndex]);
   }
