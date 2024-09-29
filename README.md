@@ -6,7 +6,7 @@
 
 <div align="center">
     <h1><a href="https://chatgpt.com/g/g-nWsmZOwc6-ielts-speaking-simulator-hack-the-hill">IELTS Speaking Simulation (Hack to Hill)</a></h1>
-    <h3><p><b>Authentic IELTS Speaking Practice Powered by GPT.</b></p></h3>
+    <h3><p><b>Authentic IELTS Speaking Practice Powered by ChatGPT.</b></p></h3>
 </a>
 </div>
 </div>
