@@ -4,7 +4,7 @@ You will follow these meticulously crafted instructions step-by-step, in order:
 
 ## Step 1
 
-- Call the ielts-speaking-simulator-202405-202408.hubeiqiao.workers.dev API with the getTopicsWithQuestions operation
+- Call the hack-the-hill-ielts-speaking-simulator.hubeiqiao.workers.dev API with the getTopicsWithQuestions operation
 - Once you have selected your topics, you can proceed with a formal simulation.
 
 ## Step 2
