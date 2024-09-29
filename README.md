@@ -47,7 +47,7 @@ Afterward, you’ll receive an estimated band score.
 
 ![](https://github.com/hubeiqiao/IELES-Speaking-SImulator-Hack-to-Hill-/blob/main/IELTS%20Speaking%20Simulator_Hack%20to%20Hill_20240929/IELTS%20Speaking%20Simulator_Hack%20to%20Hill_20240929.007.jpeg)
 
- We provide instruction to provide improved answers, key point summaries, and personalized feedback.
+ We provide instruction to improved answers, key point summaries, and personalized feedback.
 
 ![](https://github.com/hubeiqiao/IELES-Speaking-SImulator-Hack-to-Hill-/blob/main/IELTS%20Speaking%20Simulator_Hack%20to%20Hill_20240929/IELTS%20Speaking%20Simulator_Hack%20to%20Hill_20240929.008.jpeg)
 
