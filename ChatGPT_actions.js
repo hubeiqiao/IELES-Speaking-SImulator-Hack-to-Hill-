@@ -1,6 +1,6 @@
 openapi: 3.1.0
 info:
-  title: IELTS Speaking Simulator Pro API
+  title: IELTS Speaking Simulator API
   description: An API to get random IELTS speaking topics for practice.
   version: 1.0.0
 servers:
